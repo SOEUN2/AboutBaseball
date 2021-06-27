@@ -33,5 +33,7 @@ Cf. UITextFieldDelegate를 꼭 선언해줘야 한다.
 ##  개발 환경
 * MacOS  
 * iOS
+* Xcode
+* Swift
 
 
